@@ -1,0 +1,45 @@
+
+==========================================================================================
+
+Vùng tên chuẩn namespace, phục vụ cho những câu lệnh ở phía dưới khi cần.
+
+using namespace std;
+
+	- Sử dụng tên các đối tượng có trong vùng tên chuẩn std, như các tên cin, cout.
+	- Câu lệnh cin và cout tuy nằm trong thư viện iostream, nhưng vẫn phải đi kèm với vùng tên chuẩn std. Nếu không khai báo vùng tên chuẩn này ở đầu chương trình, trong using namespace std;
+		+ Khi sử dụng cout phải ghi rõ std::cout
+		+ Khi sử dụng cin phải ghi rõ std::cin
+
+==========================================================================================
+
+--------------------------------------------------------------------------------
+
+------------------------------------------------------------
+
+----------------------------------------
+
+--------------------
+
+----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
